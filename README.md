@@ -14,4 +14,4 @@
 ./underclock.sh
 ./start.sh
 ```
-## Credits (to)[https://github.com/createthis/linux_gpu_mining]
+### Credits [to](https://github.com/createthis/linux_gpu_mining)
